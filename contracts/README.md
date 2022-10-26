@@ -43,6 +43,7 @@
   - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol
 - SafeERC20.sol @openzeppelin + v0.8.11
   - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/utils/SafeERC20.sol
+- MultisendToken.sol @original
 - StorageSlot.sol @openzeppelin + v0.8.11
   - https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/StorageSlot.sol
 
